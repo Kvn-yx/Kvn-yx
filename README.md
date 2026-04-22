@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&color=gradient" />
 </div>
 
 ###
@@ -32,10 +32,14 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kvn-yx&repo=Kvn-yx&theme=github-dark&hide_border=true&icon_color=ff9f43&text_color=ff9f43&title_color=ff9f43&color_snake=yellow&snake_type=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kvn-yx&repo=Kvn-yx&theme=github-light&hide_border=true&icon_color=000000&text_color=000000&title_color=000000&color_snake=yellow&snake_type=pacman">
-  <img alt="pacman contribution graph" src="https://github-readme-stats.vercel.app/api/pin/?username=Kvn-yx&repo=Kvn-yx&theme=github-light&hide_border=true&icon_color=000000&text_color=000000&title_color=000000&color_snake=yellow&snake_type=pacman">
-</picture>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kvn-yx&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/assets/snake.gif" width="100%" alt="pacman style animation" />
+</div>
 
 ###
