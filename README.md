@@ -2,15 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&color=gradient" />
 </div>
 
-###
-
 <h1 align="left">¡Hola mundo!</h1>
-
-###
-
 <h2 align="left">Explorando y aprendiendo...</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
@@ -26,20 +19,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
-###
-
-<h3 align="left">Mi Actividad</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kvn-yx&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/assets/snake.gif" width="100%" alt="pacman style animation" />
-</div>
-
-###
+### 🕹️ Mi Actividad
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kvn-yx/Kvn-yx/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kvn-yx/Kvn-yx/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kvn-yx/Kvn-yx/output/pacman.svg">
+</picture>
