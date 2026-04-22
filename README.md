@@ -22,8 +22,8 @@
 <br/>
 
 ### 🕹️ Mi Actividad
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kvn-yx/Kvn-yx/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kvn-yx/Kvn-yx/output/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kvn-yx/Kvn-yx/output/pacman.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kvn-yx&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/assets/snake.gif" width="100%" alt="pacman" />
+</div>
