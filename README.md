@@ -18,4 +18,4 @@
 <br/>
 
 ### 🐍 Mi Actividad
-<img src="https://raw.githubusercontent.com/Kalban2026/Kvn-yx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kvn-yx/output/snake.svg" alt="Snake animation" />
